@@ -70,6 +70,9 @@ public class teste01 {
 		System.out.println("=======================================");
 		System.out.println("Calculadora encerrada!! Volte Sempre!!");
 		System.out.println("=======================================");
+		
+		sc.close();
+
 
 	}
 

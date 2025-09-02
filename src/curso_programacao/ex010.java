@@ -27,6 +27,8 @@ public class ex010 {
 			}
 		}
 		
+	sc.close();
+		
 	}
 
 }

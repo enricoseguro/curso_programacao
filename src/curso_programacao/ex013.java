@@ -4,17 +4,17 @@ import java.util.Scanner;
 
 public class ex013 {
 	public static void main(String[] args) {
-		
+
 		Scanner sc = new Scanner(System.in);
-		
+
 		double x;
 		double y;
-		
+
 		System.out.println("Digite o valor de x.");
 		x = sc.nextDouble();
 		System.out.println("Digite o valor de y.");
 		y = sc.nextDouble();
-		
+
 		if (x == 0.0 && y == 0.0) {
 			System.out.println("Origem.");
 		} else {
@@ -32,5 +32,8 @@ public class ex013 {
 				System.out.println("Q4");
 			}
 		}
+
+		sc.close();
+
 	}
 }

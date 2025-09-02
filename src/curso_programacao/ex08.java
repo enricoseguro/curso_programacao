@@ -17,6 +17,9 @@ public class ex08 {
 		} else {
 			System.out.println("Número Positivo.");
 		}
+
+		sc.close();
+
 	}
 
 }

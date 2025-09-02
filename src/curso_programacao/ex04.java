@@ -17,6 +17,9 @@ public class ex04 {
 		d = sc.nextInt();
 		diferenca = a * b - c * d;
 		System.out.println("A diferença é " + diferenca);
+		
+		sc.close();
+
 	}
 
 }

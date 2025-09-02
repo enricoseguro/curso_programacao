@@ -19,5 +19,8 @@ public class ex05 {
 		totSalario = hrSalario * hora;
 		System.out.printf("Funcionário nº: %d%n", num);
 		System.out.printf("Salário = %.2f", totSalario);
+		
+		sc.close();
+
 	}
 }

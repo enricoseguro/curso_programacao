@@ -1,7 +1,7 @@
 
 package curso_programacao;
 
-public class Ex01 {
+public class ex01 {
 
 	public static void main(String[] args) {
 

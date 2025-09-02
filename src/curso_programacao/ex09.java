@@ -15,5 +15,8 @@ public class ex09 {
 			System.out.println("O número digitado é ímpar.");
 		}
 		
+		sc.close();
+
+		
 	}
 }

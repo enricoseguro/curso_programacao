@@ -53,6 +53,9 @@ public class ex07 {
 		System.out.println("TRAPÉZIO: " + String.format("%.3f", areaTra));
 		System.out.println("QUADRADO: " + String.format("%.3f", areaQua));
 		System.out.println("RETÂNGULO: " + String.format("%.3f", areaRet));
+		
+		sc.close();
+
 	}
 	
 
